@@ -1,4 +1,4 @@
-# Operating Systems Homework 1
+# Operating Systems Implementation
 
 ## Introduction
 This project builds upon the Primitive Operating System implemented by Viktor Engelmann. The goal was to add new features to the existing system and document the improvements.
