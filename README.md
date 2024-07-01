@@ -69,6 +69,10 @@ The operating system kernel (`kernel.cpp`) performs basic functions such as mana
 ## Sample Runs and Results
 Sample runs and results are provided in the report, demonstrating the functionality of the implemented features and strategies.
 
+Part A Sample Run:
+
+![Part A - 1](https://github.com/metevarol/Implementing_OS_and_System_Calls_with_CPP/blob/109c5b0c5c9f6bf2cf07625b11703ff14202bae2/sample_runs/parta_1.png)
+
 ## Conclusion
 The project successfully extends the Primitive Operating System with new features and improvements, providing a more robust and functional system for managing processes and hardware resources.
 
