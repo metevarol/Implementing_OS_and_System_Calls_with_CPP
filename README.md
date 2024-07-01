@@ -3,6 +3,23 @@
 ## Introduction
 This project builds upon the Primitive Operating System implemented by Viktor Engelmann. The goal was to add new features to the existing system and document the improvements.
 
+## Prerequisites
+
+### 1- For Ubuntu 22.04.2, you need install:
+```bash
+sudo apt-get install g++ binutils libc6-dev-i386
+sudo apt-get install VirtualBox grub2 xorriso
+```
+### 2- After that you can run this command:
+```bash
+make mykernel.iso
+```
+### 3- Then you should create new virtual machine with this ISO file on VirtualBox with name: "My Operating System".
+
+### 4- After that you can run this command for open OS on VirtualBox
+```bash
+make run
+```
 ## Operating System Kernel
 The operating system kernel (`kernel.cpp`) performs basic functions such as managing hardware resources, handling interrupts, and providing system calls. Key components include:
 
